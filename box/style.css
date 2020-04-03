@@ -1,0 +1,41 @@
+body,
+html {
+  background: #25262f;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.site-wrapper {
+  max-width: 30rem;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  background: #d6d8e1;
+  border-radius: 3px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+.button {
+  padding: 0.25em 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  background: #4491db;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.site-header {
+  padding: 0.5rem 1rem;
+  background: #4491db;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.site-header__title {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 700;
+}
+.box{
+  border: 1px solid #4491db;
+  border-radius: 4px;
+  background: #fff;
+}
