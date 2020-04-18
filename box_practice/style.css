@@ -22,7 +22,8 @@ html {
   text-decoration: none;
   cursor: pointer;
 }
-.site-header {
+
+#site-header {
   padding: 0.5rem 1rem;
   background: #4491db;
   border-top-left-radius: 3px;

@@ -1,17 +1,18 @@
 ## CSS-1
 ### Tasks:
-- Rjesiti CSS vjezbe https://www.w3schools.com/css/exercise.asp od "CSS Selectors" do CSS Display/Visiblity
-- U gradient folderu rekreirat pomocu gotovog script.js i index.html stranicu sa screenshota (kreirajte style.css datoteku)
-- U box folderu prilagodit css odgovarajuceg htmla da lista zemalja izgleda kao na slici
+- Solve **CSS Selectors** to **Display/Visiblity** lessons on [w3schools CSS exercises](https://www.w3schools.com/css/exercise.asp)
+- In **gradient_practice** project recreate a website from the **mock_page.png**. Files **script.js** and **index.html** are already production ready, create **style.css** to finish the task.
+- In **box_practice** project adjust CSS so that website styles match the **countries.png** mockup.
+
   
-BONUS ZADATAK: Koristeci dosad usvojeno znanje iz HTML-a i CSS-a rekreirat https://www.freecodecamp.org/ (Bez Javascripta) 
+BONUS TASK: Reacreate [freecodecamp/learn](https://www.freecodecamp.org/learn/) structure and styles (HTML and CSS, without JS)
 
 <hr>
 
 ### Materials:
-- https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
-- https://www.cssbasics.com/
-- http://scratchpad.io/fretful-elbow-653
+- [8 Games to learn CSS the fun way](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f)
+- [cssbasics.com](https://www.cssbasics.com/)
+- [scratchpad.io](http://scratchpad.io/fretful-elbow-653)
 
 <hr>
 
@@ -23,6 +24,5 @@ BONUS ZADATAK: Koristeci dosad usvojeno znanje iz HTML-a i CSS-a rekreirat https
 <hr>
 
 ### Shortcuts of the week:
-  - Ctrl + Shift + L (F12) - Select all occurrences (ide super uz multi-cursor editing)
-  - Shift + Alt + RightArrow/LeftArrow - Expand/shrink Select
-  - Ctrl + Shift + [ / ] - Fold/unfold (collapse/uncollapse) region
+  - Use **Ctrl + Shift + L** to select all occurrences of the current selection
+  - Expand or shrink selection with **Shift + Alt + Right/Left Arrow**
